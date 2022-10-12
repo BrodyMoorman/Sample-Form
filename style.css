@@ -1,0 +1,17 @@
+
+body{
+    background-image: url(/images/background.jpg);
+    background-size: cover;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+.sidebar{
+    width: 40vw;
+    
+}
+.page-content{
+    width: 60vw;
+    background-color: rgb(236, 236, 236);
+    height: 100vh;
+}
